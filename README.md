@@ -1,0 +1,1 @@
+# django_affiliate_shop
