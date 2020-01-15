@@ -4,8 +4,6 @@ This integrates PayPal for django-shop version 1.0 and above.
 
 ## Installation
 
-for django-shop version 1.0.x:
-
 ```
 pip install djangoshop-paypal<1.1
 ```
